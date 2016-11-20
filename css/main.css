@@ -723,6 +723,10 @@ Change widths as necessary
 @media only screen and (min-width: 400px) { 
   body {
 
+
+  }
+  h2 {
+    font-size:20px;
   }
   .etabs >li span{
     display: inline;
