@@ -117,7 +117,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 
 /* Wrapper */
 .main{
-  /*padding-top: 50px;*/
+  padding-top: 50px;
   max-width: 1020px;
 }
 .wrapper{
