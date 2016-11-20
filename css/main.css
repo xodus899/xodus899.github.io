@@ -720,6 +720,34 @@ Change widths as necessary
   body {} /* 18.5px / 28px */
 }
 
+@media only screen and (min-width: 604px) { 
+  body {
+
+  }
+  .etabs >li span{
+    display: inline;
+  }
+  .tab a i{
+  font-size: 16px;
+  margin-right: 6px;
+}
+  .tab a{
+    padding: 10px 40px 10px 40px;
+  }
+.tab a.active{
+  padding-top: 20px;
+}
+  /* 3 COLUMN GRID */
+  .g1 {width:21.333%}
+  .g2 {width:44.667%;}
+  .g3 {width:78.0%}
+}
+
+.image {
+  width:200px;
+  height:150px;
+}
+
 
 /* PRINT */
 @media print {
