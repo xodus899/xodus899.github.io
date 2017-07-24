@@ -709,6 +709,7 @@ Change widths as necessary
 
 #resumeList {
   text-decoration: none;
+  list-style: none;
 }
 
 @media only screen and (min-width: 1280px) { 
